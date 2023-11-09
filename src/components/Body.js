@@ -1,6 +1,6 @@
-import { Outlet } from "react-router-dom"
-import SideBar from "./SideBar"
-import { useSelector } from "react-redux"
+import { Outlet } from "react-router-dom";
+import SideBar from "./SideBar";
+import { useSelector } from "react-redux";
 // import MainContainer from "./MainContainer"
 
 const Body = () => {
