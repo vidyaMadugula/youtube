@@ -1,4 +1,5 @@
-const YOUTUBE_API_KEY = "AIzaSyBOT7nKw9Sz6GX7D72SXajQsz6gird8Yzc"
+//const YOUTUBE_API_KEY = "AIzaSyBOT7nKw9Sz6GX7D72SXajQsz6gird8Yzc";
+const YOUTUBE_API_KEY = "AIzaSyBBtjndDovAvLboXUYmTTdzU-SK_7ONJIg";
 // export const YOUTUBE_VIDEO_API = "https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&chart=mostPopular&regionCode=IN&chart=mostPopular&maxResults=50&key=" + YOUTUBE_API_KEY
 
 // using .env variable
